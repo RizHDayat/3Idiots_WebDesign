@@ -31,6 +31,3 @@ Kontribusi sangat diterima! Silakan kirimkan issue atau pull request untuk perba
 
 Lisensi
 Proyek ini tidak terikat dengan lisensi khusus tetapi kontribusi dan penggunaan diperkenankan dengan memberikan kredit yang sesuai.
-
-Kontak
-Untuk pertanyaan lebih lanjut, silakan kirimi email ke [your-email@example.com].
