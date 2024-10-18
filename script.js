@@ -88,3 +88,9 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 });
+
+            const targetId = this.getAttribute('href');
+            switchContent(targetId.substring(1));
+        });
+    });
+});
